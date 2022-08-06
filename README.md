@@ -33,8 +33,8 @@
 - PEP-8 conventions
 - docstrings
 ## 🔖 Resources
-- Data Source: 
+- Data Source: [purple_air.csv](purple_air.csv)
 * Software:
-  * Python 3.7.7 
-  * Visual Studio Code 1.47.3 
+  * Python 3.9   <img src="PythonLogo.png" alt="Python 3.9" width="20"/>
+  * PyCharm 2021.2   <img src="pycharm_logo.png" alt="PyCharm 3.7.7" width="20"/>
 
