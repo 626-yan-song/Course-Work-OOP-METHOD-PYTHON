@@ -32,4 +32,9 @@
 - Concatenation
 - PEP-8 conventions
 - docstrings
+## 🔖 Resources
+- Data Source: 
+* Software:
+  * Python 3.7.7 
+  * Visual Studio Code 1.47.3 
 
